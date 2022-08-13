@@ -1,0 +1,13 @@
+<svg>
+  <image id = "gradient" href = "bg.png" width = "100%" height = "100%" x = "0" y = "0" visibility = "visible"/>
+  <image id = "cats1" href = "sad.png" width = "100%" height = "99%" x="0" y="45" visibility="hidden"/>
+  <image id = "cats2" href = "happy.png" width = "99%" height = "100%" x="0" y="46" visibility = "hidden"/>
+  < text id = "dayLabel" />
+  < text id = "timeLabel" />
+  < text id = "dateLabel" />
+  < text id = "heartrateLabel" />
+  < text id = "batteryLabel" />
+  < text id = "stepsLabel" />
+  < text id = "distanceLabel" />
+</svg>
+

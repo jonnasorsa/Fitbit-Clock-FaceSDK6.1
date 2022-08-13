@@ -1,0 +1,73 @@
+
+#timeLabel {
+  font-size: 70;
+  font-family: System-Bold;
+  text-length: 8;
+  text-anchor: middle;
+  x: 50%;
+  y: 90%;
+  fill: white;
+}
+
+#dateLabel {
+  font-size: 45;
+  font-family: System-Bold;
+  text-length: 10;
+  text-anchor: middle;
+  x: 50%;
+  y: 28%;
+  fill: lightgray;
+}
+
+#heartrateLabel {
+  font-size: 28;
+  font-family: System-Bold;
+  text-length: 10;
+  text-anchor: middle;
+  x: 50%;
+  y: 72%;
+  fill: white;
+  opacity: 90;
+}
+
+
+#batteryLabel {
+  font-size: 25;
+  font-family: System-Bold;
+  text-length: 20;
+  text-anchor: middle;
+  x: 50%;
+  y: 20;
+  fill: lightgray;
+}
+
+#stepsLabel {
+  font-size: 25;
+  font-family: System-Bold;
+  text-length: 22;
+  text-anchor: start;
+  x: 20;
+  y: 60%;
+  fill: white;
+}
+
+#distanceLabel {
+  font-size: 25;
+  font-family: System-Bold;
+  text-length: 20;
+  text-anchor: end;
+  x: 316;
+  y: 60%;
+  fill: white;
+}
+
+#dayLabel {
+  font-size: 35;
+  font-family: System-Bold;
+  text-anchor: middle;
+  text-length: 11;
+  x: 50%;
+  y: 17%;
+  fill: lightgray;
+}
+
